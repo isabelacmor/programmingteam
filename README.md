@@ -1,6 +1,6 @@
 programmingteam
 ===============
-UCF's Programming Team training for ACM ICPC compeitions
+UCF's Programming Team training for ACM ICPC competitions
 --------------------------------------------------------
 
 I've been part of competitive programming teams since 2010 and have been a member of UCF's women's programming team 
